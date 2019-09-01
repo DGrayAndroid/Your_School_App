@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Your School App</string>
+    <string name="action_settings">Settings</string>
+    <string name="school_name">St. Pete College</string>
+    <string name="button_info">View School Info</string>
+    <string name="school_address">2465 Drew Street, Clearwater, FL 33765</string>
+    <string name="school_phone">(727) 341-4772</string>
+    <string name="title_activity_school">School</string>
+</resources>
